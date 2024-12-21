@@ -4,11 +4,6 @@
   
   ## Sobre Mim
   Olá! Me chamo Raul Moreira, atualmente estou formado como Técnico em Desenvolvimento de Sistemas. Estou desenvolvendo habilidades em tecnologias web e mobile, como HTML, CSS, JavaScript, React, React Native e Firebase.
-
-<img src="https://media.tenor.com/_hUq1BSUsiMAAAAC/cat-cute.gif" alt="Cat Jumping" width="250" height="250">
-
-  
-
   
 
   ### Tecnologias e Habilidades
